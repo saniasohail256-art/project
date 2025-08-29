@@ -87,6 +87,3 @@ If you try it out and have ideas for improvement, feel free to share feedback or
 This project is licensed under the MIT License.
 
 Made witH Python.
-This project is licensed under the MIT License.
-
-Made with ❤️ and Python.
