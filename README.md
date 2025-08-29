@@ -48,6 +48,8 @@ Random & Time Modules – For shuffling and timer control
 
 
 
+git clone https://github.com/your-username/quiz-app.git
+cd quiz-app
 
 
 🎯 Future Plans
