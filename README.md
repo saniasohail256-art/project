@@ -1,4 +1,4 @@
-🎓 Smart Quiz ApplicatioN
+🎓 Smart Quiz Application
 
 This is my Smart Quiz Application project built using Python (Tkinter).
 
