@@ -1,4 +1,5 @@
 🎓 Smart Quiz Application
+ 
 
 This is my Smart Quiz Application project built using Python (Tkinter).
 
@@ -6,7 +7,10 @@ It’s a simple but powerful quiz game where users can test their knowledge in m
 
 I built this project to practice Python GUI programming and to make learning more interactive and fun.
 
+
 ✨ Features
+
+
 
 🎨 Clean & Interactive GUI using Tkinter
 
@@ -29,7 +33,10 @@ I built this project to practice Python GUI programming and to make learning mor
 🔄 Randomized Questions for each attempt
 
 
+
+
 🛠️ Technologies Used
+
 
 Python 3 – Core programming
 
@@ -39,22 +46,12 @@ TTK – For styled widgets & progress bar
 
 Random & Time Modules – For shuffling and timer control
 
-🚀 How to Run
-
-Clone the repo:
-
-git clone https://github.com/your-username/quiz-app.git
-cd quiz-app
 
 
-Run the application:
 
-python quiz_app.py
-
-
-That’s it 🎉 The quiz window should now open on your desktop.
 
 🎯 Future Plans
+
 
 I want to improve this project by:
 
@@ -84,7 +81,10 @@ This project was created as part of my Python learning journey.
 
 I wanted to explore how Tkinter works and how to make a fun, interactive application while practicing OOP concepts, event handling, and UI design.
 
-If you try it out and have ideas for improvement, feel free to share feedback or contribute! 
+
+
+
+
 
 📖 License
 
