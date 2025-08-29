@@ -1,5 +1,7 @@
-🎓 Smart Quiz Applicatio
+🎓 Smart Quiz ApplicatioN
+
 This is my Smart Quiz Application project built using Python (Tkinter).
+
 It’s a simple but powerful quiz game where users can test their knowledge in multiple categories, choose difficulty levels, use hints, and earn badges based on performance.
 
 I built this project to practice Python GUI programming and to make learning more interactive and fun.
@@ -79,11 +81,13 @@ Adding more categories & difficulty settings
 🤝 About This Project
 
 This project was created as part of my Python learning journey.
+
 I wanted to explore how Tkinter works and how to make a fun, interactive application while practicing OOP concepts, event handling, and UI design.
 
 If you try it out and have ideas for improvement, feel free to share feedback or contribute! 
 
 📖 License
+
 This project is licensed under the MIT License.
 
 Made witH Python.
